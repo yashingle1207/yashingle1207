@@ -7,16 +7,30 @@ I enjoy building things end to end, from low-level drivers on microcontrollers t
 ## 🔧 Technical Skills  
 
 **Embedded and Systems**  
-C, C++, STM32 / ARM Cortex-M, FreeRTOS, bare-metal development, ADC/DMA pipelines, timers, SPI, I2C, UART, CAN, RS-485 / Modbus, GPIO, low-level debugging
+- C, C++, Embedded C
+- STM32 / ARM Cortex-M  
+- FreeRTOS, bare-metal development  
+- ADC/DMA pipelines, timers  
+- SPI, I2C, UART, CAN, RS-485 / Modbus  
+- GPIO, low-level debugging  
 
 **AI / ML and Computer Vision**  
-Python, NumPy, OpenCV, YOLOv8 style detectors, TFLite, Roboflow, classical CV, time-series modeling (LSTM), Synaptics SyNAP / AstraAI, OpenMV AE3
+- Python, NumPy, OpenCV  
+- YOLOv8 style detectors, TFLite, Roboflow  
+- Classical CV, time-series modeling (LSTM)  
+- Synaptics SyNAP / AstraAI, OpenMV AE3  
 
 **Backend and Web**  
-Python (Flask, Django), Java, Node.js/Express, REST APIs, MongoDB, SQL, basic React/HTML/CSS/JS
+- Python (Flask, Django), Java, Node.js/Express  
+- REST APIs, MongoDB, SQL  
+- Basic React / HTML / CSS / JS  
 
 **Tools and Platforms**  
-Git/GitHub, Docker, Linux, VS Code, logic analyzers, oscilloscopes, Mission Planner, OpenMV IDE, ESP8266, Raspberry Pi, AWS (EC2, S3), basic GCP
+- Git/GitHub, Docker, Linux, VS Code  
+- Logic analyzers, oscilloscopes, Mission Planner, OpenMV IDE  
+- ESP8266, Raspberry Pi  
+- AWS (EC2, S3), basic GCP
+
 
 -----------------------------------------
 ## 🚀 Featured Projects  
